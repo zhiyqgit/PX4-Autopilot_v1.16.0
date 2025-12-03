@@ -1,6 +1,0 @@
-# File: crowdin.yml  (place it in the root of your repository)
-
-project_id: "%env.CROWDIN_PROJECT_ID%"      # pulls from GitHub secret
-api_token: "%env.CROWDIN_PERSONAL_TOKEN%"   # pulls from GitHub secret
-base_path: "."
-base_url: "https://api.crowdin.com"         # or https://crowdin.com for old accounts
