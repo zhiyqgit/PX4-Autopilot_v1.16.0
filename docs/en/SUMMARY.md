@@ -892,8 +892,13 @@
   - [Terminology/Notation](contribute/notation.md)
   - [Licenses](contribute/licenses.md)
 - [Releases](releases/index.md)
+<<<<<<< HEAD
   - [main (alpha)](releases/main.md)
   - [1.16 (stable)](releases/1.16.md)
+=======
+  - [main (alpha)](https://docs.px4.io/main/en/releases/main.html)
+  - [1.16 (stable)](releases/1.15.md)
+>>>>>>> 94cb2012792b2ae89f0b147cfee53ee31ae550be
   - [1.15](releases/1.15.md)
   - [1.14](releases/1.14.md)
   - [1.13](releases/1.13.md)

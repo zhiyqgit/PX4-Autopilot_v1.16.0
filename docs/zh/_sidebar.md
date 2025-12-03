@@ -754,7 +754,11 @@
         - [VehicleAttitudeSetpointV0](/msg_docs/VehicleAttitudeSetpointV0.md)
         - [VehicleLocalPositionV0](/msg_docs/VehicleLocalPositionV0.md)
         - [VehicleStatusV0](/msg_docs/VehicleStatusV0.md)
+<<<<<<< HEAD
     - [MAVLink Messaging](/mavlink/index.md)
+=======
+    - [MAVLink通讯](/middleware/mavlink.md)
+>>>>>>> 94cb2012792b2ae89f0b147cfee53ee31ae550be
       - [Adding Messages](/mavlink/adding_messages.md)
       - [Streaming Messages](/mavlink/streaming_messages.md)
       - [Receiving Messages](/mavlink/receiving_messages.md)
